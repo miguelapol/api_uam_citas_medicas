@@ -12,10 +12,13 @@ Aqui se vera las respectivas funciones a lado del backend de la API de las citas
 <p>En esta parte se mostrara el resultado final que se obtuvo</p>
 <br>
 <h2>Crear Paciente</h2>
+<p> En esta parte creamos un paciente</p>
 <img src="https://user-images.githubusercontent.com/33709574/167510379-e00af8c9-ffb0-4aa7-9ece-83fc39331d6f.gif">
 <h2>Editar Paciente</h2>
+<p> Editamos cualquier paciente actualizando su informacion</p>
 <img src="https://user-images.githubusercontent.com/33709574/167511050-4de6e152-2a63-4aff-b691-0c0b255e4452.gif">
 <h2>Eliminar Paciente</h2>
+<p>Eliminamos el paciente</p>
 <img src="https://user-images.githubusercontent.com/33709574/167511312-f2798cfb-36fa-48c4-8886-a4de0dce07bd.gif">
 
 
