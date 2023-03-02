@@ -1,4 +1,4 @@
-# api_uam_citas_medicas
+# back end uam citas medicas
 Aqui se vera las respectivas funciones a lado del backend de la API de las citas médicas
 <p>En esta parte se veran las pruebas correspondientes hechas en la API la cual se hizo conexión con el frontend</p>
 <br>
